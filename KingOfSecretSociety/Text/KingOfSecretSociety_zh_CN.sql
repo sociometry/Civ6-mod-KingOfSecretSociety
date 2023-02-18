@@ -77,6 +77,10 @@ VALUES	('zh_Hans_CN',	'LOC_SECRETSOCIETY_KNM_KING_OF_SECRET_SOCIETY_NAME',				'�
 		('zh_Hans_CN',	'LOC_POLICY_KOSS_WEREWOLVES_2_DESCRIPTION',							'狼人的移动力和战斗力得到永久强化。所有单位永久获得“狼血”能力，提供更大的视野范围和 [ICON_Movement] 移动力。狼人击杀敌方单位后获得额外 [ICON_Faith] 信仰值。'),
 		('zh_Hans_CN',	'LOC_POLICY_KOSS_WEREWOLVES_3_DESCRIPTION',							'狼人的移动力和战斗力得到永久强化，永久获得击败单位后将其转化为狼人的能力。允许建造“月长石”，一种相邻地貌时提供更高产出的强力改良。'),
 		('zh_Hans_CN',	'LOC_POLICY_KOSS_WEREWOLVES_4_DESCRIPTION',							'狼人的移动力和战斗力得到永久强化，永久获得“族群领袖”能力，令2个单元格内的陆地单位+2 [ICON_Movement] 移动力且每回合能回复生命值。此卡取下后将自动销毁。'),
+		('zh_Hans_CN',	'LOC_POLICY_KOSS_ASSASSINS_1_DESCRIPTION',							'首次采用该政策时 [ICON_Capital] 首都出现1个“刺客”单位，并在地图上永久显示“伊甸碎片”资源。允许建造改良“伊甸碎片抑制器”。允许建造“纪念碑”的强力替代品：“刺客分部”。'),
+		('zh_Hans_CN',	'LOC_POLICY_KOSS_ASSASSINS_2_DESCRIPTION',							'首次采用该政策时 [ICON_Capital] 首都出现1个“刺客”单位。允许建造刺客单位。允许建造特殊支援单位“伊甸裹尸布”。新训练的间谍获得“飞贼”升级。'),
+		('zh_Hans_CN',	'LOC_POLICY_KOSS_ASSASSINS_3_DESCRIPTION',							'首次采用该政策时 [ICON_Capital] 首都出现1个“刺客”单位。允许建造特色建筑“眼”。+1间谍容量，间谍在出击行动时增加1级，间谍获得能力“情报员”。'),
+		('zh_Hans_CN',	'LOC_POLICY_KOSS_ASSASSINS_4_DESCRIPTION',							'首次采用该政策时 [ICON_Capital] 首都出现1个“刺客”单位。解锁“启动全球极光装置”城市项目。+1间谍容量。'),
 
 		('zh_Hans_CN',	'LOC_GOVT_FILTER_KING_OF_SECRET_SOCIETY',							'结社之王'),
 
@@ -166,4 +170,3 @@ VALUES	('zh_Hans_CN',	'LOC_SECRETSOCIETY_JGP_STARBORNE_EMISSARIES_NAME',					'�
 		('zh_Hans_CN',	'LOC_IMPROVEMENT_THB_LUNAR_CIRCLE_DESCRIPTION',						'提供+1 [ICON_Food] 食物和等同于单元格魅力50%的 [ICON_Faith] 信仰值。每相邻2个同类型地貌额外提供+1 [ICON_Faith] 信仰、 [ICON_Science] 科技值和 [ICON_Culture] 文化值。根据相邻地貌（包括自然奇观）提供额外产出加成。必须建造在魅力值达到0或更高的空单元格上。每个城市只能修建1座。'),
 		('zh_Hans_CN',	'LOC_UNIT_THB_WEREWOLF_NAME',										'狼人'),
 		('zh_Hans_CN',	'LOC_UNIT_THB_WEREWOLF_DESCRIPTION',								'月下猎杀团专属，行动迅速的强力单位。每回合回复15生命值，相邻狼人时+3 [ICON_Strength] 战斗力。随着结社升级获得移动力、攻击力和其他加成。');
-		
