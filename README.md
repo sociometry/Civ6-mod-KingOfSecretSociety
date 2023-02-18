@@ -5,7 +5,7 @@ A secret society created with the idea using all other societies' promotions as 
 ## Installation Instructions
 You can get the latest version through https://steamcommunity.com/sharedfiles/filedetails/?id=2863229431.
 
-Non Steam users can download the release pack, uncompress it and then move it to `C:\Users\(your user name)\Documents\My Games\Sid Meier's Civilization VI\Mods` file.
+Non Steam users can download the release pack `KingOfSecretSociety.rar`, uncompress it and then move it to `C:\Users\(your user name)\Documents\My Games\Sid Meier's Civilization VI\Mods` file.
 
 ## Contribution
 You are welcome to add support for new secret societies.
